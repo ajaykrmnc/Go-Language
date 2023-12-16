@@ -1,0 +1,24 @@
+server - HTTPS
+
+chrome GET / HTML Response
+<HTML/>
+
+server thread thread thread
+multithread server
+
+Kim' Crepes
+one by one before moving - single thread server - one waiter
+
+Node js 
+Request 1 Acitive time - CPU Works- Thread to handle 
+
+I/O (Input / Output) : inactive time
+reading from filesystem making network requests
+
+waiting for some time to pass
+
+pseudo code
+
+function handleRequst(req, res) {
+    const UP
+}
